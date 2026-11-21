@@ -1,0 +1,251 @@
+Customer_ID,City,Account_Type,Employment_Type,Preferred_Channel,Age,Tenure_Years,Monthly_Income_INR,Monthly_Transactions,Last_Transaction_Date,Avg_Monthly_Balance_INR,Balance_to_Income_Ratio,Customer_Segment,Age_Group
+C1150,Lucknow,Premium,Student,Mobile App,45,1.9,37000,31,2026-04-06,26620,0.72,Low Balance,36-50
+C1123,Mumbai,Savings,Salaried,Mobile App,23,8.7,32500,15,2026-05-02,27290,0.84,Low Balance,18-25
+C1015,Lucknow,Premium,Salaried,Net Banking,46,9.7,33500,20,2026-08-12,102930,3.07,High Value,36-50
+C1139,Bengaluru,Salary,Self-Employed,Mobile App,44,3.4,40000,14,2026-07-29,53180,1.33,Healthy,36-50
+C1159,Bengaluru,Current,Self-Employed,Branch,40,6.05,32500,8,2026-01-15,73110,2.25,Healthy,36-50
+C1017,Mumbai,Salary,Salaried,Net Banking,46,5.8,90500,22,2025-02-04,87880,0.97,Healthy,36-50
+C1142,Mumbai,Current,Retired,Net Banking,39,4.1,30500,32,2025-08-22,56160,1.84,Healthy,36-50
+C1036,Bengaluru,Salary,Retired,Mobile App,46,5.1,79500,38,2025-04-02,43970,0.55,Healthy,36-50
+C1246,Bengaluru,Savings,Salaried,Net Banking,41,2.8,31500,50,2026-11-19,14220,0.45,Low Balance,36-50
+C1097,Kolkata,Premium,Salaried,Mobile App,71,2.2,30000,31,2026-02-19,29220,0.97,Low Balance,51-75
+C1188,Lucknow,Current,Salaried,Mobile App,28,4.5,18500,34,2026-11-13,1500,0.08,Low Balance,26-35
+C1096,Delhi,Current,Salaried,Mobile App,48,6.0,119500,24,2024-12-03,124880,1.05,High Value,36-50
+C1085,Kolkata,Salary,Salaried,Mobile App,30,1.8,85000,14,2026-06-19,70580,0.83,Healthy,26-35
+C1053,Bengaluru,Savings,Student,Branch,52,8.8,57500,23,2025-10-09,78920,1.37,Healthy,51-75
+C1091,Mumbai,Savings,Student,Net Banking,26,7.2,48500,19,2025-03-17,44710,0.92,Healthy,26-35
+C1119,Mumbai,Premium,Salaried,Net Banking,44,2.9,53500,28,2026-09-17,45470,0.85,Healthy,36-50
+C1023,Kolkata,Savings,Salaried,Branch,31,5.1,54000,23,2025-09-06,33820,0.63,Healthy,26-35
+C1116,Delhi,Premium,Salaried,Mobile App,23,18.9,59500,28,2025-02-19,144930,2.44,High Value,18-25
+C1048,Delhi,Savings,Salaried,Net Banking,52,8.3,99000,13,2024-12-02,170140,1.72,High Value,51-75
+C1079,Delhi,Salary,Salaried,Mobile App,44,2.2,42000,31,2025-01-28,49420,1.18,Healthy,36-50
+C1065,Mumbai,Premium,Salaried,Net Banking,48,6.0,65000,28,2026-07-10,107790,1.66,High Value,36-50
+C1092,Lucknow,Savings,Salaried,Mobile App,52,7.4,37000,45,2026-06-23,78160,2.11,Healthy,51-75
+C1244,Kolkata,Savings,Salaried,Net Banking,44,3.6,44000,38,2025-06-18,44580,1.01,Healthy,36-50
+C1245,Bengaluru,Salary,Retired,Mobile App,45,2.1,43000,19,2025-08-28,20130,0.47,Low Balance,36-50
+C1124,Bengaluru,Savings,Salaried,Branch,41,5.0,54000,24,2025-04-06,78100,1.45,Healthy,36-50
+C1127,Kolkata,Savings,Self-Employed,Net Banking,42,4.7,58000,43,2026-06-06,77260,1.33,Healthy,36-50
+C1202,Mumbai,Savings,Salaried,Mobile App,34,11.0,46000,40,2026-04-27,116440,2.53,High Value,26-35
+C1001,Kolkata,Salary,Salaried,Net Banking,44,2.6,57000,19,2025-09-26,80160,1.41,Healthy,36-50
+C1069,Kolkata,Salary,Salaried,Mobile App,18,2.9,32500,36,2026-07-09,33600,1.03,Healthy,18-25
+C1105,Mumbai,Savings,Retired,Net Banking,44,3.6,27500,20,2026-10-04,18580,0.68,Low Balance,36-50
+C1075,Bengaluru,Savings,Salaried,Branch,35,2.0,74000,29,2024-12-11,107590,1.45,High Value,26-35
+C1221,Delhi,Savings,Salaried,Branch,36,8.2,69000,11,2025-01-05,79840,1.16,Healthy,36-50
+C1180,Kolkata,Current,Salaried,Mobile App,25,3.5,44000,34,2026-01-06,20170,0.46,Low Balance,18-25
+C1149,Delhi,Premium,Self-Employed,Mobile App,39,5.3,35000,26,2026-01-22,32630,0.93,Healthy,36-50
+C1030,Delhi,Salary,Salaried,Mobile App,39,5.1,110000,32,2026-01-06,55120,0.5,Healthy,36-50
+C1131,Delhi,Current,Salaried,Net Banking,30,20.0,40000,24,2026-10-19,92970,2.32,Healthy,26-35
+C1215,Lucknow,Savings,Self-Employed,Branch,25,4.0,24500,32,2025-04-23,7730,0.32,Low Balance,18-25
+C1243,Mumbai,Salary,Self-Employed,Mobile App,30,1.7,27000,19,2025-09-25,1500,0.06,Low Balance,26-35
+C1044,Lucknow,Salary,Salaried,Mobile App,38,7.0,50500,39,2026-01-06,71190,1.41,Healthy,36-50
+C1003,Delhi,Savings,Retired,Mobile App,53,8.0,33500,30,2026-06-15,33850,1.01,Healthy,51-75
+C1004,Lucknow,Salary,Salaried,Branch,33,6.9,73500,11,2026-09-13,93500,1.27,Healthy,26-35
+C1046,Delhi,Salary,Student,Branch,40,6.05,26500,32,2026-04-20,1500,0.06,Low Balance,36-50
+C1144,Bengaluru,Salary,Retired,Branch,57,14.9,41500,37,2025-09-14,108920,2.62,High Value,51-75
+C1194,Bengaluru,Current,Retired,Net Banking,56,6.4,62000,14,2025-12-14,55970,0.9,Healthy,51-75
+C1231,Lucknow,Savings,Salaried,Net Banking,33,13.3,60000,27,2026-08-14,117610,1.96,High Value,26-35
+C1205,Mumbai,Savings,Salaried,Mobile App,36,2.9,39500,29,2026-05-20,58700,1.49,Healthy,36-50
+C1226,Bengaluru,Savings,Salaried,Net Banking,57,7.3,56000,14,2026-03-17,62630,1.12,Healthy,51-75
+C1209,Mumbai,Current,Salaried,Mobile App,52,10.6,42000,29,2024-12-05,75330,1.79,Healthy,51-75
+C1100,Bengaluru,Savings,Salaried,Mobile App,29,10.4,53500,35,2025-05-07,90420,1.69,Healthy,26-35
+C1064,Kolkata,Salary,Salaried,Mobile App,60,8.9,18500,43,2025-04-11,6100,0.33,Low Balance,51-75
+C1121,Delhi,Salary,Self-Employed,Net Banking,27,6.7,37500,27,2025-08-28,36370,0.97,Healthy,26-35
+C1055,Lucknow,Savings,Salaried,Mobile App,44,6.1,46000,43,2025-06-20,45150,0.98,Healthy,36-50
+C1153,Mumbai,Savings,Self-Employed,Net Banking,48,10.8,38000,31,2026-05-16,48640,1.28,Healthy,36-50
+C1012,Kolkata,Current,Salaried,Net Banking,29,6.6,23000,23,2025-02-16,60700,2.64,Healthy,26-35
+C1138,Delhi,Savings,Salaried,Net Banking,50,9.1,46500,28,2026-07-10,56230,1.21,Healthy,36-50
+C1240,Lucknow,Savings,Salaried,Mobile App,59,1.8,66500,39,2026-06-11,56740,0.85,Healthy,51-75
+C1136,Mumbai,Salary,Salaried,Mobile App,32,1.8,69000,38,2026-01-16,40810,0.59,Healthy,26-35
+C1230,Mumbai,Savings,Salaried,Mobile App,31,8.4,44000,25,2024-12-02,64700,1.47,Healthy,26-35
+C1086,Delhi,Savings,Student,Mobile App,38,6.9,38000,12,2026-02-04,35650,0.94,Healthy,36-50
+C1080,Delhi,Current,Salaried,Mobile App,36,0.9,34500,32,2026-08-05,10050,0.29,Low Balance,36-50
+C1076,Mumbai,Savings,Salaried,Net Banking,34,4.8,12000,9,2026-06-15,30280,2.52,Healthy,26-35
+C1223,Mumbai,Salary,Salaried,Mobile App,38,3.0,62000,22,2024-12-29,67230,1.08,Healthy,36-50
+C1090,Lucknow,Current,Salaried,Branch,43,14.7,47500,19,2025-03-30,78120,1.64,Healthy,36-50
+C1006,Mumbai,Savings,Self-Employed,Branch,46,3.7,25500,21,2025-08-31,22840,0.9,Low Balance,36-50
+C1125,Delhi,Salary,Self-Employed,Net Banking,37,7.1,39500,13,2026-10-08,81150,2.05,Healthy,36-50
+C1051,Delhi,Current,Salaried,Net Banking,46,20.0,46000,32,2025-06-06,73430,1.6,Healthy,36-50
+C1029,Mumbai,Savings,Retired,Branch,43,5.1,64500,24,2026-09-14,32140,0.5,Healthy,36-50
+C1224,Lucknow,Savings,Salaried,Mobile App,26,7.5,52000,12,2026-09-20,58760,1.13,Healthy,26-35
+C1013,Delhi,Savings,Salaried,Net Banking,35,6.0,43000,40,2025-09-19,6090,0.14,Low Balance,26-35
+C1172,Bengaluru,Savings,Salaried,Net Banking,23,1.8,56500,43,2026-02-16,1500,0.03,Low Balance,18-25
+C1047,Lucknow,Current,Self-Employed,Net Banking,39,15.8,60500,23,2025-03-26,127500,2.11,High Value,36-50
+C1146,Delhi,Salary,Retired,Net Banking,57,1.3,49000,33,2025-02-01,37560,0.77,Healthy,51-75
+C1126,Delhi,Premium,Salaried,Mobile App,31,7.2,63000,42,2026-01-12,75620,1.2,Healthy,26-35
+C1211,Mumbai,Savings,Salaried,Branch,26,7.7,53500,36,2024-12-07,71370,1.33,Healthy,26-35
+C1183,Delhi,Savings,Salaried,Net Banking,36,20.0,115000,13,2026-08-31,158220,1.38,High Value,36-50
+C1130,Delhi,Current,Self-Employed,Branch,40,8.8,32000,23,2025-11-25,77080,2.41,Healthy,36-50
+C1066,Mumbai,Salary,Salaried,Mobile App,29,2.5,60500,18,2025-10-19,55050,0.91,Healthy,26-35
+C1042,Bengaluru,Salary,Retired,Mobile App,42,4.8,73500,34,2026-06-14,88650,1.21,Healthy,36-50
+C1027,Lucknow,Current,Self-Employed,Mobile App,44,5.0,68500,17,2026-08-22,65850,0.96,Healthy,36-50
+C1102,Delhi,Premium,Salaried,Net Banking,46,9.8,48500,26,2026-10-20,79190,1.63,Healthy,36-50
+C1236,Lucknow,Current,Salaried,Mobile App,36,2.0,63500,24,2026-10-19,79530,1.25,Healthy,36-50
+C1176,Delhi,Current,Retired,Mobile App,40,4.6,39500,17,2025-10-18,86710,2.2,Healthy,36-50
+C1148,Kolkata,Salary,Salaried,Net Banking,41,3.6,58000,38,2026-04-24,87350,1.51,Healthy,36-50
+C1197,Kolkata,Current,Salaried,Mobile App,52,9.6,17500,32,2026-07-14,66110,3.78,Healthy,51-75
+C1008,Lucknow,Current,Salaried,Net Banking,27,3.7,54000,38,2025-12-24,62380,1.16,Healthy,26-35
+C1122,Delhi,Savings,Salaried,Mobile App,27,3.3,70000,34,2026-09-01,67430,0.96,Healthy,26-35
+C1161,Mumbai,Savings,Self-Employed,Mobile App,75,5.4,65500,7,2024-12-07,91600,1.4,Healthy,51-75
+C1133,Delhi,Salary,Salaried,Mobile App,32,5.6,30500,20,2026-09-11,38720,1.27,Healthy,26-35
+C1058,Delhi,Salary,Salaried,Branch,39,8.8,48000,45,2025-10-23,83600,1.74,Healthy,36-50
+C1067,Mumbai,Salary,Salaried,Branch,32,2.1,39500,41,2026-04-12,73670,1.87,Healthy,26-35
+C1037,Kolkata,Savings,Retired,Mobile App,20,5.1,103500,25,2025-06-12,67560,0.65,Healthy,18-25
+C1108,Mumbai,Salary,Salaried,Mobile App,36,9.3,66500,35,2026-01-26,95710,1.44,Healthy,36-50
+C1225,Delhi,Savings,Student,Mobile App,26,1.4,64000,36,2026-03-19,42330,0.66,Healthy,26-35
+C1115,Delhi,Savings,Salaried,Net Banking,61,10.5,46000,31,2025-04-27,78020,1.7,Healthy,51-75
+C1010,Bengaluru,Savings,Student,Net Banking,64,5.1,35000,20,2026-04-17,34750,0.99,Healthy,51-75
+C1227,Lucknow,Savings,Salaried,Net Banking,18,4.2,52500,22,2026-09-17,24840,0.47,Low Balance,18-25
+C1082,Mumbai,Premium,Self-Employed,Branch,18,2.6,42000,16,2025-12-08,28780,0.69,Low Balance,18-25
+C1061,Bengaluru,Premium,Salaried,Net Banking,32,6.7,38000,35,2026-06-15,28190,0.74,Low Balance,26-35
+C1132,Mumbai,Savings,Salaried,Mobile App,39,15.6,37000,40,2025-02-14,88240,2.38,Healthy,36-50
+C1198,Delhi,Savings,Salaried,Net Banking,38,7.8,116500,16,2025-03-10,152580,1.31,High Value,36-50
+C1078,Delhi,Savings,Self-Employed,Net Banking,47,6.3,53000,17,2026-05-13,28870,0.54,Low Balance,36-50
+C1163,Delhi,Salary,Retired,Branch,31,0.8,29000,10,2025-04-10,1500,0.05,Low Balance,26-35
+C1141,Kolkata,Savings,Salaried,Branch,39,2.8,26000,19,2026-01-06,5250,0.2,Low Balance,36-50
+C1040,Bengaluru,Current,Salaried,Net Banking,50,5.1,25500,30,2026-05-30,15000,0.59,Low Balance,36-50
+C1087,Mumbai,Premium,Student,Mobile App,64,11.4,34000,36,2026-01-06,75340,2.22,Healthy,51-75
+C1213,Delhi,Savings,Salaried,Net Banking,40,6.5,28500,24,2024-12-06,30390,1.07,Healthy,36-50
+C1155,Mumbai,Salary,Salaried,Branch,44,3.5,106500,24,2025-07-23,78610,0.74,Healthy,36-50
+C1222,Mumbai,Salary,Self-Employed,Mobile App,54,14.5,31500,25,2024-12-03,90030,2.86,Healthy,51-75
+C1181,Bengaluru,Salary,Retired,Net Banking,33,16.7,40000,23,2025-03-29,63740,1.59,Healthy,26-35
+C1111,Mumbai,Salary,Salaried,Mobile App,63,3.1,30500,3,2025-04-23,1500,0.05,Low Balance,51-75
+C1182,Bengaluru,Salary,Self-Employed,Mobile App,37,7.5,36500,31,2026-01-27,33350,0.91,Healthy,36-50
+C1201,Bengaluru,Savings,Salaried,Mobile App,28,5.6,87500,28,2026-04-02,64630,0.74,Healthy,26-35
+C1199,Bengaluru,Salary,Salaried,Mobile App,24,4.7,37500,39,2026-01-06,59370,1.58,Healthy,18-25
+C1062,Bengaluru,Salary,Student,Net Banking,45,3.4,34000,27,2026-08-16,69520,2.04,Healthy,36-50
+C1129,Delhi,Savings,Salaried,Branch,31,3.7,48500,31,2025-02-17,32920,0.68,Healthy,26-35
+C1154,Bengaluru,Current,Self-Employed,Mobile App,52,5.6,100000,21,2026-05-26,103760,1.04,High Value,51-75
+C1025,Delhi,Premium,Salaried,Mobile App,42,9.0,67000,28,2026-10-07,111260,1.66,High Value,36-50
+C1120,Mumbai,Salary,Salaried,Mobile App,25,2.5,57500,11,2025-05-29,64420,1.12,Healthy,18-25
+C1070,Lucknow,Salary,Salaried,Mobile App,46,4.8,24500,45,2026-09-21,56750,2.32,Healthy,36-50
+C1177,Mumbai,Premium,Salaried,Net Banking,38,12.8,31000,20,2024-12-14,44370,1.43,Healthy,36-50
+C1035,Delhi,Premium,Self-Employed,Branch,29,8.0,82000,58,2025-06-07,110150,1.34,High Value,26-35
+C1101,Bengaluru,Salary,Salaried,Mobile App,41,10.2,12000,16,2025-01-06,4040,0.34,Low Balance,36-50
+C1218,Mumbai,Savings,Salaried,Mobile App,44,2.7,29000,31,2025-02-25,68630,2.37,Healthy,36-50
+C1151,Delhi,Savings,Salaried,Mobile App,50,6.8,82000,20,2025-12-30,145030,1.77,High Value,36-50
+C1134,Kolkata,Salary,Salaried,Branch,48,5.0,66500,21,2025-12-10,25450,0.38,Low Balance,36-50
+C1237,Delhi,Savings,Retired,Mobile App,44,20.0,24000,24,2024-12-19,105120,4.38,High Value,36-50
+C1152,Delhi,Savings,Salaried,Branch,24,14.5,33500,41,2024-12-01,30030,0.9,Healthy,18-25
+C1024,Delhi,Savings,Salaried,Net Banking,43,11.7,97500,21,2026-05-26,123470,1.27,High Value,36-50
+C1135,Mumbai,Salary,Retired,Mobile App,29,20.0,48500,35,2025-04-07,105250,2.17,High Value,26-35
+C1007,Lucknow,Salary,Salaried,Mobile App,36,6.05,45500,25,2025-03-17,72370,1.59,Healthy,36-50
+C1084,Delhi,Premium,Self-Employed,Net Banking,23,8.3,59000,31,2025-03-23,123630,2.1,High Value,18-25
+C1031,Kolkata,Salary,Self-Employed,Net Banking,43,6.05,85000,38,2026-07-22,122150,1.44,High Value,36-50
+C1026,Kolkata,Current,Salaried,Mobile App,33,6.0,19000,18,2026-10-29,21170,1.11,Low Balance,26-35
+C1011,Kolkata,Salary,Retired,Mobile App,46,11.2,25500,21,2025-04-27,46430,1.82,Healthy,36-50
+C1185,Mumbai,Savings,Retired,Net Banking,34,2.2,61500,23,2026-02-09,7320,0.12,Low Balance,26-35
+C1059,Kolkata,Savings,Self-Employed,Mobile App,26,2.6,47500,41,2026-11-12,46100,0.97,Healthy,26-35
+C1187,Lucknow,Premium,Salaried,Mobile App,25,4.9,61000,11,2025-03-20,85600,1.4,Healthy,18-25
+C1034,Mumbai,Salary,Student,Mobile App,48,6.7,36000,22,2025-01-08,46760,1.3,Healthy,36-50
+C1214,Bengaluru,Salary,Salaried,Branch,33,16.6,102000,41,2026-08-06,132370,1.3,High Value,26-35
+C1104,Mumbai,Savings,Self-Employed,Net Banking,55,8.1,23000,31,2026-02-12,2630,0.11,Low Balance,51-75
+C1248,Bengaluru,Salary,Retired,Mobile App,28,4.1,81500,15,2026-09-29,88300,1.08,Healthy,26-35
+C1249,Kolkata,Savings,Self-Employed,Mobile App,32,15.9,66000,23,2025-08-10,144430,2.19,High Value,26-35
+C1206,Delhi,Savings,Salaried,Branch,44,7.8,45000,15,2026-05-19,35790,0.8,Healthy,36-50
+C1192,Bengaluru,Savings,Retired,Mobile App,27,10.1,33000,31,2025-01-10,44660,1.35,Healthy,26-35
+C1072,Mumbai,Savings,Salaried,Mobile App,49,10.5,59000,21,2026-04-24,72980,1.24,Healthy,36-50
+C1173,Mumbai,Savings,Retired,Mobile App,38,15.9,46500,23,2025-06-08,112270,2.41,High Value,36-50
+C1217,Bengaluru,Savings,Salaried,Mobile App,60,4.7,27000,18,2026-05-03,13510,0.5,Low Balance,51-75
+C1049,Kolkata,Current,Salaried,Net Banking,49,3.2,38000,29,2026-09-25,61920,1.63,Healthy,36-50
+C1043,Bengaluru,Current,Salaried,Mobile App,54,7.4,22500,38,2025-12-24,30370,1.35,Healthy,51-75
+C1207,Mumbai,Savings,Self-Employed,Branch,39,15.9,31500,32,2026-10-27,88600,2.81,Healthy,36-50
+C1033,Delhi,Current,Salaried,Mobile App,56,4.2,73000,19,2025-09-13,107820,1.48,High Value,51-75
+C1196,Bengaluru,Salary,Self-Employed,Mobile App,42,10.5,26000,32,2025-07-18,41500,1.6,Healthy,36-50
+C1228,Mumbai,Savings,Salaried,Mobile App,33,5.8,38000,31,2026-09-25,33890,0.89,Healthy,26-35
+C1005,Kolkata,Savings,Self-Employed,Net Banking,24,9.4,40500,39,2025-10-20,70700,1.75,Healthy,18-25
+C1073,Bengaluru,Salary,Retired,Branch,53,4.4,93500,31,2025-02-07,58270,0.62,Healthy,51-75
+C1071,Mumbai,Salary,Self-Employed,Net Banking,32,7.2,35000,30,2025-09-12,54190,1.55,Healthy,26-35
+C1110,Delhi,Salary,Salaried,Mobile App,28,7.6,48000,25,2026-10-05,46620,0.97,Healthy,26-35
+C1203,Mumbai,Salary,Salaried,Net Banking,21,11.6,79500,36,2026-02-11,113200,1.42,High Value,18-25
+C1216,Mumbai,Current,Retired,Mobile App,37,6.05,32500,30,2026-01-30,68200,2.1,Healthy,36-50
+C1103,Delhi,Current,Self-Employed,Net Banking,42,4.8,129500,36,2025-02-02,97400,0.75,Healthy,36-50
+C1162,Delhi,Savings,Salaried,Mobile App,29,3.3,42500,25,2026-10-29,3510,0.08,Low Balance,26-35
+C1137,Delhi,Current,Self-Employed,Mobile App,42,7.8,73500,22,2026-08-06,127890,1.74,High Value,36-50
+C1032,Kolkata,Savings,Salaried,Branch,41,4.5,94500,18,2025-10-26,98370,1.04,Healthy,36-50
+C1128,Delhi,Savings,Salaried,Net Banking,32,10.8,27500,23,2026-07-25,59820,2.18,Healthy,26-35
+C1171,Delhi,Savings,Self-Employed,Net Banking,53,6.3,21500,26,2026-05-14,24760,1.15,Low Balance,51-75
+C1239,Mumbai,Savings,Retired,Mobile App,22,4.4,24000,19,2026-03-11,53470,2.23,Healthy,18-25
+C1081,Bengaluru,Savings,Retired,Net Banking,55,2.5,30500,12,2025-09-23,5310,0.17,Low Balance,51-75
+C1195,Bengaluru,Savings,Salaried,Net Banking,47,4.4,23000,23,2026-07-01,20610,0.9,Low Balance,36-50
+C1009,Lucknow,Savings,Student,Branch,47,4.0,42000,7,2026-09-13,61110,1.46,Healthy,36-50
+C1083,Delhi,Savings,Self-Employed,Branch,42,5.6,41000,35,2026-01-05,49870,1.22,Healthy,36-50
+C1060,Delhi,Savings,Student,Mobile App,37,4.1,34000,31,2025-04-14,28570,0.84,Low Balance,36-50
+C1022,Delhi,Savings,Retired,Mobile App,50,9.4,58500,17,2026-10-20,109320,1.87,High Value,36-50
+C1114,Mumbai,Savings,Self-Employed,Net Banking,57,10.6,59500,3,2025-12-01,109750,1.84,High Value,51-75
+C1063,Delhi,Current,Salaried,Mobile App,36,6.7,91500,54,2025-01-27,81510,0.89,Healthy,36-50
+C1112,Delhi,Current,Salaried,Mobile App,43,5.0,38500,33,2026-07-02,56320,1.46,Healthy,36-50
+C1014,Lucknow,Current,Self-Employed,Mobile App,35,1.8,74000,20,2025-09-17,78040,1.05,Healthy,26-35
+C1204,Lucknow,Premium,Salaried,Branch,30,1.8,24000,30,2026-07-14,1500,0.06,Low Balance,26-35
+C1016,Delhi,Salary,Salaried,Branch,40,5.7,47500,34,2026-05-05,66100,1.39,Healthy,36-50
+C1021,Mumbai,Savings,Salaried,Mobile App,35,2.5,71500,44,2026-03-31,81520,1.14,Healthy,26-35
+C1164,Mumbai,Current,Salaried,Mobile App,34,3.7,46000,49,2026-10-08,51130,1.11,Healthy,26-35
+C1038,Kolkata,Savings,Self-Employed,Net Banking,58,4.0,55000,22,2025-04-14,47060,0.86,Healthy,51-75
+C1220,Delhi,Current,Salaried,Mobile App,38,9.4,46000,42,2026-03-01,34830,0.76,Healthy,36-50
+C1178,Bengaluru,Savings,Retired,Mobile App,36,10.7,27500,13,2026-05-18,57310,2.08,Healthy,36-50
+C1158,Mumbai,Salary,Salaried,Net Banking,23,11.9,46000,30,2026-01-13,96910,2.11,Healthy,18-25
+C1186,Mumbai,Premium,Retired,Net Banking,18,5.8,53500,37,2025-02-14,125620,2.35,High Value,18-25
+C1143,Delhi,Savings,Salaried,Mobile App,25,6.3,48000,33,2025-06-07,43730,0.91,Healthy,18-25
+C1169,Kolkata,Current,Retired,Branch,41,8.6,34000,29,2026-01-23,79710,2.34,Healthy,36-50
+C1232,Mumbai,Savings,Salaried,Net Banking,25,12.1,64500,33,2026-07-25,111150,1.72,High Value,18-25
+C1189,Mumbai,Salary,Salaried,Mobile App,49,5.5,44000,21,2026-10-23,71400,1.62,Healthy,36-50
+C1210,Mumbai,Savings,Salaried,Mobile App,23,14.3,61000,18,2025-07-25,121100,1.99,High Value,18-25
+C1002,Delhi,Premium,Salaried,Branch,35,9.0,49500,36,2026-08-07,55000,1.11,Healthy,26-35
+C1019,Kolkata,Savings,Self-Employed,Branch,51,13.9,74500,3,2025-07-25,114130,1.53,High Value,51-75
+C1098,Delhi,Savings,Salaried,Mobile App,41,18.5,64000,51,2026-06-30,97030,1.52,Healthy,36-50
+C1234,Lucknow,Current,Salaried,Branch,18,6.0,40500,57,2024-12-03,63770,1.57,Healthy,18-25
+C1184,Bengaluru,Salary,Retired,Mobile App,30,10.4,46500,28,2025-09-28,65830,1.42,Healthy,26-35
+C1219,Delhi,Current,Salaried,Mobile App,45,5.5,75500,17,2026-08-16,105370,1.4,High Value,36-50
+C1117,Delhi,Salary,Salaried,Mobile App,28,6.6,49000,40,2025-01-17,17210,0.35,Low Balance,26-35
+C1068,Delhi,Current,Self-Employed,Net Banking,36,6.4,74500,10,2025-06-27,50270,0.67,Healthy,36-50
+C1229,Bengaluru,Current,Self-Employed,Mobile App,42,5.3,89500,45,2026-09-08,114460,1.28,High Value,36-50
+C1057,Delhi,Salary,Salaried,Mobile App,40,7.2,98500,19,2026-04-18,123650,1.26,High Value,36-50
+C1165,Mumbai,Salary,Salaried,Branch,45,12.3,64500,18,2025-06-21,100040,1.55,High Value,36-50
+C1191,Lucknow,Savings,Self-Employed,Net Banking,37,19.3,59000,15,2025-05-17,119240,2.02,High Value,36-50
+C1094,Bengaluru,Salary,Student,Mobile App,29,10.0,21500,18,2024-12-06,66210,3.08,Healthy,26-35
+C1247,Bengaluru,Savings,Student,Mobile App,35,2.1,51500,27,2024-12-15,9920,0.19,Low Balance,26-35
+C1099,Bengaluru,Salary,Salaried,Mobile App,55,3.2,80500,31,2026-01-24,36320,0.45,Healthy,51-75
+C1107,Delhi,Salary,Salaried,Net Banking,26,11.7,50500,28,2025-03-19,70250,1.39,Healthy,26-35
+C1093,Delhi,Salary,Self-Employed,Mobile App,59,4.2,49500,30,2025-07-20,69950,1.41,Healthy,51-75
+C1106,Delhi,Savings,Salaried,Mobile App,49,10.5,61000,40,2026-05-08,95630,1.57,Healthy,36-50
+C1179,Mumbai,Current,Salaried,Branch,35,4.2,121500,28,2026-10-20,90580,0.75,Healthy,26-35
+C1140,Delhi,Savings,Self-Employed,Net Banking,57,6.5,54000,20,2026-10-18,77840,1.44,Healthy,51-75
+C1238,Delhi,Savings,Salaried,Mobile App,43,5.2,62500,25,2024-12-20,70000,1.12,Healthy,36-50
+C1074,Bengaluru,Salary,Salaried,Net Banking,36,12.8,35500,32,2026-07-14,91740,2.58,Healthy,36-50
+C1166,Lucknow,Current,Salaried,Mobile App,57,2.3,36000,39,2025-08-05,53750,1.49,Healthy,51-75
+C1018,Bengaluru,Savings,Salaried,Mobile App,38,2.5,50000,29,2025-05-20,59570,1.19,Healthy,36-50
+C1045,Bengaluru,Premium,Salaried,Mobile App,39,13.5,46000,36,2025-03-20,61750,1.34,Healthy,36-50
+C1028,Delhi,Savings,Self-Employed,Mobile App,28,3.5,67000,14,2026-04-14,48790,0.73,Healthy,26-35
+C1208,Delhi,Savings,Self-Employed,Net Banking,38,6.6,39000,52,2026-08-07,36720,0.94,Healthy,36-50
+C1233,Mumbai,Savings,Self-Employed,Mobile App,51,1.0,35000,26,2025-06-29,4980,0.14,Low Balance,51-75
+C1193,Mumbai,Salary,Salaried,Net Banking,47,7.8,23500,30,2026-04-01,51050,2.17,Healthy,36-50
+C1088,Delhi,Savings,Salaried,Branch,37,13.8,64500,22,2025-05-01,171750,2.66,High Value,36-50
+C1170,Delhi,Savings,Salaried,Branch,41,4.3,36500,35,2025-12-01,55270,1.51,Healthy,36-50
+C1056,Kolkata,Current,Self-Employed,Net Banking,40,10.4,21000,32,2025-03-11,59160,2.82,Healthy,36-50
+C1077,Bengaluru,Savings,Retired,Net Banking,23,6.7,48000,16,2025-03-02,68730,1.43,Healthy,18-25
+C1054,Bengaluru,Savings,Salaried,Mobile App,29,7.9,77500,43,2026-08-04,102810,1.33,High Value,26-35
+C1089,Mumbai,Savings,Salaried,Branch,41,1.8,33500,27,2026-09-01,51840,1.55,Healthy,36-50
+C1109,Bengaluru,Premium,Salaried,Mobile App,44,1.7,30000,25,2025-03-26,51700,1.72,Healthy,36-50
+C1041,Mumbai,Salary,Retired,Net Banking,27,5.2,21500,32,2026-07-26,31570,1.47,Healthy,26-35
+C1020,Lucknow,Savings,Salaried,Mobile App,32,3.4,47000,30,2025-01-30,71220,1.52,Healthy,26-35
+C1113,Mumbai,Salary,Student,Mobile App,36,7.9,12000,24,2026-06-18,41750,3.48,Healthy,36-50
+C1174,Bengaluru,Current,Salaried,Mobile App,47,5.2,45000,35,2026-03-05,31680,0.7,Healthy,36-50
+C1212,Delhi,Current,Salaried,Net Banking,42,3.6,51500,39,2026-09-24,63410,1.23,Healthy,36-50
+C1145,Bengaluru,Salary,Student,Mobile App,29,14.9,43500,9,2026-06-19,118160,2.72,High Value,26-35
+C1241,Bengaluru,Current,Salaried,Mobile App,52,14.6,48000,33,2026-07-15,131260,2.73,High Value,51-75
+C1039,Mumbai,Savings,Retired,Mobile App,33,7.4,40000,27,2025-03-25,54970,1.37,Healthy,26-35
+C1095,Bengaluru,Savings,Salaried,Mobile App,35,2.2,19000,30,2026-07-30,5300,0.28,Low Balance,26-35
+C1160,Delhi,Premium,Salaried,Mobile App,40,13.9,48500,32,2025-09-15,121890,2.51,High Value,36-50
+C1250,Kolkata,Salary,Salaried,Net Banking,49,9.6,32000,26,2026-07-05,66000,2.06,Healthy,36-50
+C1118,Delhi,Savings,Student,Net Banking,40,6.6,38500,28,2025-09-09,38090,0.99,Healthy,36-50
+C1242,Kolkata,Salary,Self-Employed,Mobile App,28,1.7,33000,11,2026-09-24,10600,0.32,Low Balance,26-35
+C1147,Lucknow,Salary,Salaried,Net Banking,47,7.7,57500,27,2025-04-14,44800,0.78,Healthy,36-50
+C1175,Mumbai,Salary,Self-Employed,Net Banking,26,7.2,23000,30,2026-04-11,17450,0.76,Low Balance,26-35
+C1200,Bengaluru,Salary,Salaried,Net Banking,43,8.8,40500,33,2025-10-03,29650,0.73,Low Balance,36-50
+C1157,Mumbai,Salary,Salaried,Mobile App,33,6.05,59000,14,2025-08-18,94030,1.59,Healthy,26-35
+C1050,Delhi,Savings,Student,Net Banking,42,20.0,29500,3,2025-10-21,111270,3.77,High Value,36-50
+C1190,Delhi,Current,Self-Employed,Mobile App,42,2.3,28000,27,2026-01-30,49880,1.78,Healthy,36-50
+C1052,Delhi,Current,Salaried,Net Banking,50,1.6,40500,20,2026-08-15,17550,0.43,Low Balance,36-50
+C1235,Delhi,Savings,Salaried,Branch,31,5.8,28500,42,2025-05-27,32610,1.14,Healthy,26-35
+C1156,Bengaluru,Savings,Self-Employed,Net Banking,49,8.4,41500,35,2025-08-27,104710,2.52,High Value,36-50
+C1167,Bengaluru,Savings,Salaried,Branch,24,4.6,64500,49,2025-01-18,37810,0.59,Healthy,18-25
+C1168,Delhi,Premium,Salaried,Branch,45,4.3,38500,27,2025-10-07,48460,1.26,Healthy,36-50
